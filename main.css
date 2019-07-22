@@ -11,6 +11,7 @@ body {
 
 body, html {
     height: 100%;
+    width: auto;
     /* overflow:hidden; */
     margin: 0; padding: 0;
      }
@@ -22,6 +23,8 @@ svg{
     display: block;
     margin: auto;
     fill: #ffffff;
+    width: 100%;
+    max-width: 50em;
 }
 
 #borderLogo{
@@ -80,11 +83,15 @@ svg{
 
 
 
-  @media (max-width: 500px){
+  @media (max-width: 360px){
     .pDetails{
     font-size: 1.2rem;
     color: beige;
     font-family: 'Inter', sans-serif;
     background: url(https://i.imgur.com/WWiElLA.gif) no-repeat;
     -webkit-text-fill-color: transparent;}
+
+    body{
+      width: auto;
+    }
   }
