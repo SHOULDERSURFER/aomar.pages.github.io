@@ -4,7 +4,7 @@
 /* html { font-family: 'Inter var', sans-serif; } */
 }
 body {
-    /* background:  url(https://thumbs.gfycat.com/SmoothFailingAracari-size_restricted.gif) no-repeat center center fixed;  */
+    background:  url(https://thumbs.gfycat.com/SmoothFailingAracari-size_restricted.gif) no-repeat center center fixed; 
     background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400), url(https://i.imgur.com/WWiElLA.gif); 
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.3);
@@ -27,31 +27,28 @@ svg{
     margin: auto;
     fill: #ffffff;
 }
-#borderlogo{
+
+#borderLogo{
   animation-name: omarAR1;
   animation-duration: 2s;
-  animation-iteration-count: infinite;
 }
 
 #omarAR{
   animation-name: omarAR1;
   animation-duration: 2s;
   animation-delay: 30ms;
-  animation-iteration-count: infinite;
 }
 
 #bigM{
   animation-name: omarAR1;
   animation-duration: 2s;
   animation-delay: 60ms;
-  animation-iteration-count: infinite;
-}
+ }
 
 #bigR{
   animation-name: omarAR1;
   animation-duration: 2s;
   animation-delay: 90ms;
-  animation-iteration-count: infinite;
 }
 
 @keyframes omarAR1 {
