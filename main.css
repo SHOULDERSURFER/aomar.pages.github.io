@@ -1,0 +1,88 @@
+@import url('https://rsms.me/inter/inter.css');
+/* html { font-family: 'Inter', sans-serif; } */
+@supports (font-variation-settings: normal) {
+/* html { font-family: 'Inter var', sans-serif; } */
+}
+body {
+    /* background:  url(https://thumbs.gfycat.com/SmoothFailingAracari-size_restricted.gif) no-repeat center center fixed;  */
+    background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400), url(https://i.imgur.com/WWiElLA.gif); 
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.3);
+    background-repeat: no-repeat;
+    background-position: center center fixed;
+    grid-template-columns: auto;
+    }
+
+body, html {
+    height: 100%;
+    /* overflow:hidden; */
+    margin: 0; padding: 0;
+     }
+
+svg{
+    align-self: center;
+    height: 100%;
+    justify-self: center;
+    display: block;
+    margin: auto;
+    fill: #ffffff;
+}
+#omarAR{
+  animation-name: omarAR1;
+  animation-duration: 2s;
+}
+
+#bigM{
+  animation-name: omarAR1;
+  animation-duration: 2s;
+  animation-delay: 60ms;
+}
+
+#bigR{
+  animation-name: omarAR1;
+  animation-duration: 2s;
+  animation-delay: 90ms;
+}
+
+@keyframes omarAR1 {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+  .pDetails{
+    font-size: 2rem;
+    color: beige;
+    font-family: 'Inter', sans-serif;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    text-align: center;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 50vh;
+  }
+  a {
+    text-decoration:none;
+    color: inherit;
+    text-transform: uppercase;
+    }
+
+
+    .st0{display:none;}
+    .st1{fill:#ffffff;}
+
+
+
+  @media (max-width: 500px){
+    .pDetails{
+    font-size: 1.2rem;
+    color: beige;
+    font-family: 'Inter', sans-serif;
+    background: url(https://i.imgur.com/WWiElLA.gif) no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
