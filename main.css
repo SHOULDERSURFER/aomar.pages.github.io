@@ -27,21 +27,32 @@ svg{
     margin: auto;
     fill: #ffffff;
 }
+#borderlogo{
+  animation-name: omarAR1;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+}
 #omarAR{
   animation-name: omarAR1;
   animation-duration: 2s;
+  animation-delay: 30ms;
+  animation-iteration-count: infinite;
 }
 
 #bigM{
   animation-name: omarAR1;
   animation-duration: 2s;
   animation-delay: 60ms;
+  animation-iteration-count: infinite;
 }
 
 #bigR{
   animation-name: omarAR1;
   animation-duration: 2s;
   animation-delay: 90ms;
+  animation-iteration-count: infinite;
 }
 
 @keyframes omarAR1 {
