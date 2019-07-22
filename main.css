@@ -26,25 +26,25 @@ svg{
 
 #borderLogo{
   animation-name: omarAR1;
-  animation-duration: 3s;
+  animation-duration: 2s;
 }
 
 #omarAR{
   animation-name: omarAR1;
   animation-duration: 3s;
-  animation-delay: 30ms;
+  /* animation-delay: 1s; */
 }
 
 #bigM{
   animation-name: omarAR1;
-  animation-duration: 3s;
-  animation-delay: 60ms;
+  animation-duration: 4s;
+  /* animation-delay: 2s; */
  }
 
 #bigR{
   animation-name: omarAR1;
-  animation-duration: 3s;
-  animation-delay: 90ms;
+  animation-duration: 4.5s;
+  /* animation-delay: 2.5s; */
 }
 
 @keyframes omarAR1 {
