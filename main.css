@@ -1,6 +1,5 @@
 body {
-    background: url(/image/bgRocket.gif);
-    background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400), url(https://i.imgur.com/WWiElLA.gif); 
+     
     background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400) no-repeat center center fixed; 
     background-size: cover;
     background-color: rgba(255, 0, 0, 0.3);
