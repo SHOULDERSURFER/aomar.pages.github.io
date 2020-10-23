@@ -34,19 +34,19 @@ svg{
 #omarAR{
   animation-name: omarAR1;
   animation-duration: 3s;
-animation-delay: 1s;
+
 }
 
 #bigM{
   animation-name: omarAR1;
   animation-duration: 4s;
-animation-delay: 2s; 
+
  }
 
 #bigR{
   animation-name: omarAR1;
   animation-duration: 4.5s;
-animation-delay: 2.5s;
+
 }
 
 @keyframes omarAR1 {
