@@ -75,6 +75,7 @@ a {
 .tile:hover {
   transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
   transform: scale(1.02);
+  background-color: #ddf700;
 }
 
 .tile-share-button {
