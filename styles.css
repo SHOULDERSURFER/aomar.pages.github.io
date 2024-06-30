@@ -152,3 +152,16 @@ a {
  opacity: 1;
   }
 }
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.gallery-image {
+  width: calc(33.33% - 10px);
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
