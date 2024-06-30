@@ -153,18 +153,3 @@ a {
   }
 }
 
-.gallery-image {
-  width: 100%;
-  height: auto;
-}
-
-.slick-slide {
-  margin: 0 10px;
-}
-
-.slick-prev, .slick-next {
-  background-color: #000;
-  border-radius: 50%;
-  width: 30px;
-  height: 30px;
-}
