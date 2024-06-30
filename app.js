@@ -16,3 +16,13 @@ async function copyText(e) {
 
 shareButtons.forEach(shareButton =>
     shareButton.addEventListener('click', copyText))
+
+    $(document).ready(function(){
+        $('.image-gallery').slick({
+          dots: true,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          adaptiveHeight: true
+        });
+      });
