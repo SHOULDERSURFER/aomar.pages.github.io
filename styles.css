@@ -161,7 +161,7 @@ a {
 
 .slider {
 	display: flex;
-	aspect-ratio: 1 / 1;
+	aspect-ratio: 16 / 4;
 	overflow-x: auto;
 	scroll-snap-type: x mandatory;
 	scroll-behavior: smooth;
@@ -179,7 +179,9 @@ a {
 .slider img {
 	flex: 1 0 100%;
 	scroll-snap-align: start;
-	object-fit: scale-down;
+	object-fit: cover;
+  height: 120px;
+  width: 120px;
 }
 
 .slider-nav {
