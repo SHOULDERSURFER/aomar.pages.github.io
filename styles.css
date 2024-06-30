@@ -181,7 +181,7 @@ a {
 	scroll-snap-align: start;
 	object-fit: cover;
   
-  width: 100%;
+  width: fit-content;
 }
 
 .slider-nav {
