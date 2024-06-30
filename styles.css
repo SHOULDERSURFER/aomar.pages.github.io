@@ -100,9 +100,7 @@ a {
 }
 
 .profileLogo{
-  align-self: center;
   height: 100%;
-  justify-self: center;
   display: block;
   margin: auto;
   fill: #ffffff;
