@@ -161,7 +161,7 @@ a {
 
 .slider {
 	display: flex;
-	aspect-ratio: 16 / 9;
+	aspect-ratio: auto;
 	overflow-x: auto;
 	scroll-snap-type: x mandatory;
 	scroll-behavior: smooth;
@@ -196,7 +196,7 @@ a {
 	width: 0.5rem;
 	height: 0.5rem;
 	border-radius: 50%;
-	background-color: #fff;
+	background-color: #ddf700;
 	opacity: 0.75;
 	transition: opacity ease 250ms;
 }
