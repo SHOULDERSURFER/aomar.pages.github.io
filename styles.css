@@ -180,8 +180,8 @@ a {
 	flex: 1 0 100%;
 	scroll-snap-align: start;
 	object-fit: cover;
-  height: 120px;
-  width: 120px;
+  
+  width: 100%;
 }
 
 .slider-nav {
