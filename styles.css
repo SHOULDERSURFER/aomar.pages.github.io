@@ -16,9 +16,9 @@ body {
   width: 100vw;
   font-family: Verdana, Tahoma, sans-serif;
   position: absolute;
-  top: 50%;
+  /* top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 }
 
 header {
@@ -101,6 +101,7 @@ a {
 
 .profileLogo{
   height: 100%;
+
   display: block;
   margin: auto;
   fill: #ffffff;
