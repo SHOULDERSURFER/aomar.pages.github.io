@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background:  url(../images/backgroundMain.webp) no-background-size: cover;
+  background:  url(/images/backgroundMain.webp) no-background-size: cover;
   color: rgb(240,240,240);
   display: flex;
   align-items: center;
