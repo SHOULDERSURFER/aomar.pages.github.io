@@ -1,24 +1,14 @@
 body {
   margin: 0;
   padding: 0;
-  background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400) no-repeat center center fixed; 
-  background-size: cover;
- 
-  background-repeat: no-repeat;
-  background-position: center center fixed;
-  background-color: rgb(10,10,10);
-  
+  background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400) no-background-size: cover;
   color: rgb(240,240,240);
   display: flex;
   align-items: center;
-  
   flex-direction: column;
   width: 100vw;
   font-family: Verdana, Tahoma, sans-serif;
   position: absolute;
-  /* top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
 }
 
 header {
@@ -143,14 +133,6 @@ a {
 
 }
 
-@keyframes omarAR1 {
-  from{
- opacity: 0;
-  }
-  to{
- opacity: 1;
-  }
-}
 
 .slider-wrapper {
 	position: relative;
