@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background:  url(https://lh3.googleusercontent.com/3yrG_vfISe92_j2oVBL-ZEPbEl9Rjqgk8lyVu7mCeJAUqqOTSDNO7ftortoaTaIC4hqC4UF_zbyOPVt202mP828WYHaHpO-Lb58wPcaAbuE8a4ZttFYxotNhgGms4srTkL71Z30qyg=w2400) no-background-size: cover;
+  background:  url(../images/backgroundMain.webp) no-background-size: cover;
   color: rgb(240,240,240);
   display: flex;
   align-items: center;
